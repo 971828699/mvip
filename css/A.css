@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+}
+#div1{
+	width: 100%;	
+}
+#div1 > img{
+	/*border: solid 1px red;*/
+	width: 100%;
+	display: block;
+	
+}
+#t3_1{
+	/*border: solid 1px red;*/
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	
+}
+#t3_1 > img{
+	width: 33.33%;
+	height: 33.3%;	
+}
+
+#t10_1{
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+#t10_1 > img{
+	width: 20%;
+	height: 20%;
+}
+#t1{
+	width: 100%;
+}
+#t1 > img{
+	width: 100%;
+}
+#divk{
+	
+	width: 100%;
+	background: url(../photo/mst_773cabc3a7d4b21bdf0f3b7d4bc2f183.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+#divk_1{
+	
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+#pht{
+	margin-top: 20%;
+	width: 25%;
+	height: 25%;
+}
+
+#pai {
+	width: 15%;
+	height: 25%;
+}
+#pai2{
+	
+	margin-top: -2%;
+	width: 15%;
+	height: 25%;
+}
+#divk2{
+	width: 100%;
+}
+#divk2 > img{
+	width: 100%;
+}
+#pi4{
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
+}
+#pi4 > img{
+	border: solid 0px red;
+	width: 25%;
+	height: 25%;
+}
+#divk3{
+	width: 100%;
+}
+#divk3 > img{
+	width: 100%;
+}
+#divk3 > div{
+	width: 100%;
+	display: flex;
+
+	flex-wrap: wrap;
+}
+#sp1{
+	width: 70%;
+}
+#sp2{
+	width: 30%;
+}
+#sp3{
+	widows: 40%;
+}
